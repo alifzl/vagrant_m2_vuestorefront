@@ -1,8 +1,6 @@
 .idea
 .vagrant
-sites
 vuestorefront-config-overlay/*
-custom/*
-reverseproxy/*
+custom/*x
 persistent_storage/
 storage
